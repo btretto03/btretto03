@@ -16,8 +16,7 @@
 
 ---
 
-Gosto de construir coisas que rodam de verdade — de um sistema que uma farmácia
-usa todo dia a simuladores e experimentos de aprendizado de máquina. Atualmente
+Sou estudante de Engenharia de Computação na Unicamp. Atualmente
 faço iniciação científica na área de ML, no TI/MCTI Renato Archer.
 
 <details>
