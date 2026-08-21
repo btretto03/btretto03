@@ -95,7 +95,3 @@ disciplina.
 
 ---
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=btretto03&show_icons=true&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btretto03&layout=compact&hide_border=true" alt="Linguagens mais usadas">
-</p>
